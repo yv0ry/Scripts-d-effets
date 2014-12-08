@@ -1,0 +1,8 @@
+#object {
+visibility: hidden;
+}
+.box {
+	text-align:center;
+	border-radius:15px;
+	background-color:#FE9A2E;
+}
